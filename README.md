@@ -1,7 +1,7 @@
 # DR
 MA1 project
 
-All results: excels, graphs are in the folder. For V3 there are two versions, simply seperate the model from scratch and the pretrained one.
+All results: excels, graphs are in the folder. For V3 there are two versions, I simply seperate the model from scratch and the pretrained one in order to reduce mute and unmute times in code.
 
 The needed data can be downloaded from https://www.kaggle.com/c/aptos2019-blindness-detection/data. We only need train.csv and train_images.
 
